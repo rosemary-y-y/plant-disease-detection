@@ -1,2 +1,2 @@
 # plant-disease-detection
-plant disease 
+the code has been taken from kaggle
